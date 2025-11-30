@@ -1,0 +1,1 @@
+file used to learn how to deal with system calls of i/o
